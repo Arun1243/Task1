@@ -1,1 +1,2 @@
-The changes for git
+The changes for git2.
+The git2
